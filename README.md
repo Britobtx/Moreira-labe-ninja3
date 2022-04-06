@@ -18,6 +18,6 @@
 
 
 ### Link do surge (ainda em branco):
-nosso-labeninjas.surge.sh
+http://nosso-labeninjas.surge.sh
 
 ### Prints:
